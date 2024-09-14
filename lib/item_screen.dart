@@ -2,9 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:week_two_task_one_a/provider/item_provider.dart';
 
-import 'model/item_model.dart';
-
-
 class ItemScreen extends StatefulWidget {
   const ItemScreen({super.key});
 
