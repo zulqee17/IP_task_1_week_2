@@ -1,6 +1,7 @@
 # week_two_task_one_a
 
-A new Flutter project.
+internship pakistan task 1 of week 2 
+A simple shopping List App with provider
 
 ## Getting Started
 
